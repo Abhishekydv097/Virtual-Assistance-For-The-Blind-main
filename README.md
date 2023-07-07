@@ -56,11 +56,6 @@ So, we proposed a Voice-based Email System using AI that will make the email sys
 
  </ul><br/>
  
-## RUN USING :
-`python manage.py runserver`
-
-<br>
-
 
 
 
